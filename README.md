@@ -1,5 +1,5 @@
-#NAME : R.JAYASREE
-#R.NO : 212223040074#
+**NAME : R.JAYASREE**
+**R.NO : 212223040074**
 
 #  Mean and variance of a discrete  distribution
 
