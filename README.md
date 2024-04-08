@@ -1,8 +1,10 @@
+**DEVELOPED BY**
+
 **NAME : R.JAYASREE**           
 
 **R.NO : 212223040074**
 
-#  Mean and variance of a discrete  distribution
+#  eX 1  :  Mean and variance of a discrete  distribution
 
 
 # Aim : 
